@@ -110,9 +110,9 @@ const Footer = () => {
                         &copy; {new Date().getFullYear()} TypingCenter. All rights reserved.
                     </p>
                     <div className="flex gap-6 text-sm text-slate-500">
-                        <a href="#" className="hover:text-white transition-colors">Privacy</a>
-                        <a href="#" className="hover:text-white transition-colors">Cookies</a>
-                        <a href="#" className="hover:text-white transition-colors">Terms</a>
+                        <a href="Privacy" className="hover:text-white transition-colors">Privacy</a>
+                        <a href="Privacy" className="hover:text-white transition-colors">Cookies</a>
+                        <a href="Privacy" className="hover:text-white transition-colors">Terms</a>
                     </div>
                 </div>
             </div>

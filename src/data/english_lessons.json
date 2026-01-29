@@ -1,0 +1,147 @@
+[
+  {
+    "id": 0,
+    "level": "Beginner",
+    "title": "Home Row",
+    "desc": "Learn the home row keys: A S D F J K L ;",
+    "chars": "asdf jkl; asdf jkl; aa ss dd ff jj kk ll ;;"
+  },
+  {
+    "id": 1,
+    "level": "Beginner",
+    "title": "Top Row",
+    "desc": "Master the QWERTY row.",
+    "chars": "qwerty uiop qwert uiop q w e r t y u i o p"
+  },
+  {
+    "id": 2,
+    "level": "Beginner",
+    "title": "Bottom Row",
+    "desc": "Practice bottom row keys.",
+    "chars": "zxcv bnm, zxcvb nm, . / z x c v b n m , . /"
+  },
+  {
+    "id": 3,
+    "level": "Beginner",
+    "title": "Capital Letters",
+    "desc": "Practice using the Shift key.",
+    "chars": "The Quick Brown Fox Jumps Over The Lazy Dog"
+  },
+  {
+    "id": 4,
+    "level": "Beginner",
+    "title": "Numbers & Symbols",
+    "desc": "Top row numbers and special characters.",
+    "chars": "12345 67890 !@#$% ^&*()"
+  },
+
+  {
+    "id": 5,
+    "level": "Intermediate",
+    "title": "Daily Life Paragraph",
+    "desc": "Simple paragraph for smooth typing.",
+    "chars": "Every morning I wake up early and plan my day. A healthy routine helps me stay focused and energetic. Regular practice makes daily tasks easier and improves overall productivity."
+  },
+  {
+    "id": 6,
+    "level": "Intermediate",
+    "title": "Learning & Practice",
+    "desc": "Paragraph about learning habits.",
+    "chars": "Learning any new skill requires patience and dedication. Typing is no different. By practicing daily and maintaining correct posture, anyone can improve typing speed and accuracy."
+  },
+  {
+    "id": 7,
+    "level": "Intermediate",
+    "title": "Technology Awareness",
+    "desc": "Medium-length paragraph.",
+    "chars": "Technology plays an important role in modern life. Computers and smartphones help people communicate, work efficiently, and access information quickly. Proper typing skills enhance digital productivity."
+  },
+
+  {
+    "id": 8,
+    "level": "Advanced",
+    "title": "Office Work Paragraph",
+    "desc": "Professional typing practice.",
+    "chars": "In an office environment, typing accuracy is more important than speed. Emails, reports, and documentation require careful attention to detail. Errors can change meaning and reduce professionalism."
+  },
+  {
+    "id": 9,
+    "level": "Advanced",
+    "title": "Focus & Discipline",
+    "desc": "Long paragraph for rhythm building.",
+    "chars": "Focus and discipline are essential for mastering typing. Avoid looking at the keyboard and trust your muscle memory. Over time, your fingers will automatically reach the correct keys without effort."
+  },
+  {
+    "id": 10,
+    "level": "Advanced",
+    "title": "Career Growth",
+    "desc": "Large paragraph for advanced learners.",
+    "chars": "Strong typing skills contribute significantly to career growth. Employees who type efficiently save time, complete tasks faster, and reduce stress. These abilities create a positive impression in professional environments."
+  },
+
+  {
+    "id": 11,
+    "level": "Advanced",
+    "title": "Exam Preparation",
+    "desc": "Useful for government and competitive exams.",
+    "chars": "Many competitive examinations require fast and accurate typing. Consistent practice helps candidates manage time effectively and avoid mistakes under pressure. Confidence plays a crucial role during exams."
+  },
+  {
+    "id": 12,
+    "level": "Advanced",
+    "title": "Health & Ergonomics",
+    "desc": "Typing with comfort and safety.",
+    "chars": "Proper posture while typing prevents strain and fatigue. Sit upright, keep your wrists relaxed, and take regular breaks. Healthy habits ensure long-term efficiency and prevent physical discomfort."
+  },
+
+  {
+    "id": 13,
+    "level": "Expert",
+    "title": "Modern Workplace",
+    "desc": "Large professional paragraph.",
+    "chars": "In the modern workplace, employees rely heavily on digital communication. Reports, presentations, and online meetings require clear and accurate written communication. Typing efficiently allows professionals to focus on ideas rather than mechanics."
+  },
+  {
+    "id": 14,
+    "level": "Expert",
+    "title": "Productivity & Time Management",
+    "desc": "Long paragraph for expert speed.",
+    "chars": "Time management is closely connected to productivity. When typing becomes second nature, tasks that once felt difficult are completed quickly. This efficiency frees up time for creativity and strategic thinking."
+  },
+  {
+    "id": 15,
+    "level": "Expert",
+    "title": "Consistency & Growth",
+    "desc": "Very large paragraph for endurance typing.",
+    "chars": "Consistency is the key to mastering any skill. Typing daily, even for a short duration, builds muscle memory and confidence. Over weeks and months, small improvements add up to remarkable progress."
+  },
+
+  {
+    "id": 16,
+    "level": "Expert",
+    "title": "Real-World Communication",
+    "desc": "Extended paragraph with real-world tone.",
+    "chars": "Clear communication is essential in both personal and professional life. Well-written messages reduce misunderstandings and convey ideas effectively. Typing accurately ensures that your message is delivered exactly as intended."
+  },
+  {
+    "id": 17,
+    "level": "Expert",
+    "title": "Stress & Performance",
+    "desc": "Long paragraph for pressure handling.",
+    "chars": "Under pressure, trained typists maintain accuracy and calmness. Practice prepares the mind and hands to perform efficiently even in stressful situations. Confidence grows naturally with experience."
+  },
+  {
+    "id": 18,
+    "level": "Expert",
+    "title": "Success Mindset",
+    "desc": "Motivational large paragraph.",
+    "chars": "Success is built through continuous effort and learning. Typing skills may seem simple, but they reflect discipline and dedication. Mastery comes to those who practice with patience and purpose."
+  },
+  {
+    "id": 19,
+    "level": "Expert",
+    "title": "Final Speed Test",
+    "desc": "Maximum length paragraph for final evaluation.",
+    "chars": "Typing is not just about speed, but also about accuracy, rhythm, and comfort. A skilled typist maintains balance between all three. With regular practice, anyone can achieve professional-level typing performance."
+  }
+]

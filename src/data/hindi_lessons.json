@@ -1,0 +1,147 @@
+[
+  {
+    "id": 0,
+    "level": "Beginner",
+    "title": "Lesson 1: Home Row",
+    "desc": "Learn basic consonants and simple words.",
+    "chars": "कमल नयन हस मत क म ल न य न ह स म त"
+  },
+  {
+    "id": 1,
+    "level": "Beginner",
+    "title": "Lesson 2: Top Row",
+    "desc": "Practice upper row characters.",
+    "chars": "च ज प क त चजप कत"
+  },
+  {
+    "id": 2,
+    "level": "Beginner",
+    "title": "Lesson 3: Bottom Row",
+    "desc": "Practice lower row characters.",
+    "chars": "ब न म व स र ब न म व स र"
+  },
+  {
+    "id": 3,
+    "level": "Beginner",
+    "title": "Lesson 4: Matras Practice",
+    "desc": "Practice common matras.",
+    "chars": "का कि की कु कू के कै को कौ कं कः"
+  },
+  {
+    "id": 4,
+    "level": "Beginner",
+    "title": "Lesson 5: Shift & Half Letters",
+    "desc": "Practice half letters and shift usage.",
+    "chars": "क्या क्यों कैसे अच्छा स्वच्छ आधा अक्षर अभ्यास"
+  },
+
+  {
+    "id": 5,
+    "level": "Intermediate",
+    "title": "Lesson 6: Common Hindi Words",
+    "desc": "Frequently used Hindi words.",
+    "chars": "भारत भाषा समय कार्य जीवन शिक्षा समाज परिवार"
+  },
+  {
+    "id": 6,
+    "level": "Intermediate",
+    "title": "Lesson 7: Short Sentences",
+    "desc": "Simple sentence typing practice.",
+    "chars": "भारत एक महान देश है। हम सभी को समय का महत्व समझना चाहिए।"
+  },
+  {
+    "id": 7,
+    "level": "Intermediate",
+    "title": "Lesson 8: Daily Life Paragraph",
+    "desc": "Medium paragraph for fluency.",
+    "chars": "हमारा दैनिक जीवन अनुशासन पर आधारित होना चाहिए। नियमित अभ्यास से व्यक्ति अपने लक्ष्य को आसानी से प्राप्त कर सकता है।"
+  },
+
+  {
+    "id": 8,
+    "level": "Advanced",
+    "title": "Lesson 9: Education Paragraph",
+    "desc": "Paragraph related to education.",
+    "chars": "शिक्षा मानव जीवन का महत्वपूर्ण आधार है। यह व्यक्ति को ज्ञान, संस्कार और आत्मविश्वास प्रदान करती है।"
+  },
+  {
+    "id": 9,
+    "level": "Advanced",
+    "title": "Lesson 10: Technology & Society",
+    "desc": "Typing practice with modern vocabulary.",
+    "chars": "आज के युग में कंप्यूटर और इंटरनेट का उपयोग तेजी से बढ़ रहा है। तकनीक ने हमारे जीवन को सरल और तेज बना दिया है।"
+  },
+  {
+    "id": 10,
+    "level": "Advanced",
+    "title": "Lesson 11: Office Work",
+    "desc": "Professional Hindi typing.",
+    "chars": "कार्यालय में कार्य करते समय शुद्ध और स्पष्ट भाषा का प्रयोग आवश्यक है। त्रुटिरहित टाइपिंग कार्य की गुणवत्ता बढ़ाती है।"
+  },
+
+  {
+    "id": 11,
+    "level": "Advanced",
+    "title": "Lesson 12: Examination Practice",
+    "desc": "Useful for competitive exams.",
+    "chars": "प्रतियोगी परीक्षाओं में समय का सही प्रबंधन बहुत आवश्यक होता है। नियमित अभ्यास से गति और शुद्धता दोनों में सुधार होता है।"
+  },
+  {
+    "id": 12,
+    "level": "Advanced",
+    "title": "Lesson 13: Health & Discipline",
+    "desc": "Long paragraph practice.",
+    "chars": "स्वस्थ जीवन के लिए अनुशासन अत्यंत आवश्यक है। सही समय पर कार्य करना और नियमित अभ्यास करना सफलता की कुंजी है।"
+  },
+
+  {
+    "id": 13,
+    "level": "Expert",
+    "title": "Lesson 14: National Development",
+    "desc": "Large paragraph for expert typing.",
+    "chars": "किसी भी देश का विकास उसके नागरिकों की शिक्षा और कार्यक्षमता पर निर्भर करता है। जब नागरिक कुशल और जिम्मेदार होते हैं, तब राष्ट्र प्रगति करता है।"
+  },
+  {
+    "id": 14,
+    "level": "Expert",
+    "title": "Lesson 15: Time Management",
+    "desc": "Very long paragraph.",
+    "chars": "समय प्रबंधन जीवन की सबसे महत्वपूर्ण कला है। जो व्यक्ति समय का सदुपयोग करता है, वह हर क्षेत्र में सफलता प्राप्त करता है।"
+  },
+  {
+    "id": 15,
+    "level": "Expert",
+    "title": "Lesson 16: Professional Communication",
+    "desc": "Office-level Hindi typing.",
+    "chars": "व्यावसायिक संचार में स्पष्टता और शुद्धता अत्यंत आवश्यक है। सही शब्दों का चयन संदेश को प्रभावी बनाता है।"
+  },
+
+  {
+    "id": 16,
+    "level": "Expert",
+    "title": "Lesson 17: Stress Management",
+    "desc": "Extended paragraph for endurance.",
+    "chars": "तनावपूर्ण परिस्थितियों में भी शांत रहकर कार्य करना एक महत्वपूर्ण गुण है। अभ्यास से व्यक्ति कठिन परिस्थितियों में भी बेहतर प्रदर्शन कर सकता है।"
+  },
+  {
+    "id": 17,
+    "level": "Expert",
+    "title": "Lesson 18: Success & Hard Work",
+    "desc": "Motivational paragraph.",
+    "chars": "सफलता परिश्रम और धैर्य का परिणाम होती है। निरंतर प्रयास करने वाला व्यक्ति कभी असफल नहीं होता।"
+  },
+  {
+    "id": 18,
+    "level": "Expert",
+    "title": "Lesson 19: Social Responsibility",
+    "desc": "Large social awareness paragraph.",
+    "chars": "समाज के प्रति हमारी जिम्मेदारी है कि हम ईमानदारी और कर्तव्यनिष्ठा से अपने कार्य करें। इससे समाज और राष्ट्र दोनों मजबूत होते हैं।"
+  },
+  {
+    "id": 19,
+    "level": "Expert",
+    "title": "Lesson 20: Final Speed Test",
+    "desc": "Final long paragraph for speed and accuracy.",
+    "chars": "हिंदी टाइपिंग में गति के साथ शुद्धता बनाए रखना आवश्यक है। निरंतर अभ्यास से व्यक्ति व्यावसायिक स्तर की टाइपिंग क्षमता प्राप्त कर सकता है।"
+  }
+]
